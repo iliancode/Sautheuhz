@@ -11,7 +11,7 @@ L'objectif du projet sautheuhz est de créer une application web permettant à u
 
 **BackEnd**   
 Du côté serveur nous utilisons deux frameworks principaux pour  ce projet :  
--NodeJS  
+-NodeJS   
 -ExpressJs  
 
 **Base de données**  
