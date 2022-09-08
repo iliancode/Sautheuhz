@@ -10,7 +10,7 @@ L'objectif du projet sautheuhz est de créer une application web permettant à u
 -Utilisation de Chart.Js le graphique sur la page d'acceuil (prévoyant les stocks sur les 6 prochains mois).  
 
 **BackEnd**   
-Du côté serveur nous utilisons deux frameworks principaux pour ce projet :  
+Du côté serveur nous utilisons deux frameworks principaux pour  ce projet :  
 -NodeJS  
 -ExpressJs  
 
